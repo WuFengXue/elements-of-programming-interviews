@@ -1,7 +1,7 @@
 # Chapter 5: Primitives
 
 - [x] 5.1 ComputeParity
-- [ ] 5.2 SwapBits
+- [x] 5.2 SwapBits
 - [ ] 5.3 ReverseBits
 - [ ] 5.4 FindClosestInteger
 - [ ] 5.5 MultiplicationNoArithmeticOperators
