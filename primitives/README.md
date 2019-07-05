@@ -2,7 +2,7 @@
 
 - [x] 5.1 ComputeParity
 - [x] 5.2 SwapBits
-- [ ] 5.3 ReverseBits
+- [x] 5.3 ReverseBits
 - [ ] 5.4 FindClosestInteger
 - [ ] 5.5 MultiplicationNoArithmeticOperators
 - [ ] 5.6 ComputerDivision
