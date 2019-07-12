@@ -5,7 +5,7 @@
 - [x] 5.3 ReverseBits
 - [x] 5.4 FindClosestInteger
 - [x] 5.5 MultiplicationNoArithmeticOperators
-- [ ] 5.6 ComputerDivision
+- [x] 5.6 ComputerDivision
 - [ ] 5.7 ComputePower
 - [ ] 5.8 ReverseDigits
 - [ ] 5.9 CheckIfIntegerIsPalindrome
