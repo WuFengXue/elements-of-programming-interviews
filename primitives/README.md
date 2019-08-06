@@ -7,7 +7,7 @@
 - [x] 5.5 MultiplicationNoArithmeticOperators
 - [x] 5.6 ComputerDivision
 - [x] 5.7 ComputePower
-- [ ] 5.8 ReverseDigits
+- [x] 5.8 ReverseDigits
 - [ ] 5.9 CheckIfIntegerIsPalindrome
 - [ ] 5.10 GenerateUniformRandomNumbers
 - [ ] 5.11 RectangleIntersection
