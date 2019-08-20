@@ -9,5 +9,5 @@
 - [x] 5.7 ComputePower
 - [x] 5.8 ReverseDigits
 - [x] 5.9 CheckIfIntegerIsPalindrome
-- [ ] 5.10 GenerateUniformRandomNumbers
+- [x] 5.10 GenerateUniformRandomNumbers
 - [ ] 5.11 RectangleIntersection
