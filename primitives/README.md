@@ -10,4 +10,4 @@
 - [x] 5.8 ReverseDigits
 - [x] 5.9 CheckIfIntegerIsPalindrome
 - [x] 5.10 GenerateUniformRandomNumbers
-- [ ] 5.11 RectangleIntersection
+- [x] 5.11 RectangleIntersection
