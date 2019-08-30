@@ -1,7 +1,7 @@
 # Chapter 6: Arrays  
 
 - [x] 6.1 DutchNationalFlag
-- [ ] 6.2 IncrementArbitraryPrecisionInteger
+- [x] 6.2 IncrementArbitraryPrecisionInteger
 - [ ] 6.3 MultipleArbitraryPrecisionInteger
 - [ ] 6.4 AdvanceThroughArray
 - [ ] 6.5 DeleteDuplicates
