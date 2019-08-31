@@ -2,7 +2,7 @@
 
 - [x] 6.1 DutchNationalFlag
 - [x] 6.2 IncrementArbitraryPrecisionInteger
-- [ ] 6.3 MultipleArbitraryPrecisionInteger
+- [x] 6.3 MultipleArbitraryPrecisionInteger
 - [ ] 6.4 AdvanceThroughArray
 - [ ] 6.5 DeleteDuplicates
 - [ ] 6.6 BuySellStockOnce
