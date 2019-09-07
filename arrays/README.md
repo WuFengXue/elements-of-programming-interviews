@@ -5,7 +5,7 @@
 - [x] 6.3 MultipleArbitraryPrecisionInteger
 - [x] 6.4 AdvanceThroughArray
 - [x] 6.5 DeleteDuplicates
-- [ ] 6.6 BuySellStockOnce
+- [x] 6.6 BuySellStockOnce
 - [ ] 6.7 BuySellStockTwice
 - [ ] 6.8 EnumeratePrimes
 - [ ] 6.9 PermuteElements
