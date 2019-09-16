@@ -7,7 +7,7 @@
 - [x] 6.5 DeleteDuplicates
 - [x] 6.6 BuySellStockOnce
 - [x] 6.7 BuySellStockTwice
-- [ ] 6.8 EnumeratePrimes
+- [x] 6.8 EnumeratePrimes
 - [ ] 6.9 PermuteElements
 - [ ] 6.10 NextPermutation
 - [ ] 6.11 SampleOfflineData
