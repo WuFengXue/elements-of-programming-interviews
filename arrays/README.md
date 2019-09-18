@@ -8,7 +8,7 @@
 - [x] 6.6 BuySellStockOnce
 - [x] 6.7 BuySellStockTwice
 - [x] 6.8 EnumeratePrimes
-- [ ] 6.9 PermuteElements
+- [x] 6.9 PermuteElements
 - [ ] 6.10 NextPermutation
 - [ ] 6.11 SampleOfflineData
 - [ ] 6.12 SampleOnlineData
