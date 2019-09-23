@@ -9,7 +9,7 @@
 - [x] 6.7 BuySellStockTwice
 - [x] 6.8 EnumeratePrimes
 - [x] 6.9 PermuteElements
-- [ ] 6.10 NextPermutation
+- [x] 6.10 NextPermutation
 - [ ] 6.11 SampleOfflineData
 - [ ] 6.12 SampleOnlineData
 - [ ] 6.13 ComputeRandomPermutation
