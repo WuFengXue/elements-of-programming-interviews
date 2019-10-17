@@ -11,7 +11,7 @@
 - [x] 6.9 PermuteElements
 - [x] 6.10 NextPermutation
 - [x] 6.11 SampleOfflineData
-- [ ] 6.12 SampleOnlineData
+- [x] 6.12 SampleOnlineData
 - [ ] 6.13 ComputeRandomPermutation
 - [ ] 6.14 ComputeRandomSubset
 - [ ] 6.15 GenerateNonuniformRandomNumbers
