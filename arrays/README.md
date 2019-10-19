@@ -12,7 +12,7 @@
 - [x] 6.10 NextPermutation
 - [x] 6.11 SampleOfflineData
 - [x] 6.12 SampleOnlineData
-- [ ] 6.13 ComputeRandomPermutation
+- [x] 6.13 ComputeRandomPermutation
 - [ ] 6.14 ComputeRandomSubset
 - [ ] 6.15 GenerateNonuniformRandomNumbers
 - [ ] 6.16 SudokuChecker
