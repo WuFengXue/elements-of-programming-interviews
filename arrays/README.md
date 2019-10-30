@@ -16,6 +16,6 @@
 - [x] 6.14 ComputeRandomSubset
 - [x] 6.15 GenerateNonuniformRandomNumbers
 - [x] 6.16 SudokuChecker
-- [ ] 6.17 ComputeSpiralOrdering
+- [x] 6.17 ComputeSpiralOrdering
 - [ ] 6.18 Rotate2DArray
 - [ ] 6.19 ComputePascalsTriangle
