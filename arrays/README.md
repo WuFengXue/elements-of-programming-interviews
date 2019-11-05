@@ -18,4 +18,4 @@
 - [x] 6.16 SudokuChecker
 - [x] 6.17 ComputeSpiralOrdering
 - [x] 6.18 Rotate2DArray
-- [ ] 6.19 ComputePascalsTriangle
+- [x] 6.19 ComputePascalsTriangle
