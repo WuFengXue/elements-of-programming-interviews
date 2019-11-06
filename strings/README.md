@@ -1,6 +1,6 @@
 # Chapter 7: Strings
 
-- [ ] 7.1 InterconvertStringAndInteger
+- [x] 7.1 InterconvertStringAndInteger
 - [ ] 7.2 BaseConversion
 - [ ] 7.3 SpreadsheetColumnEncoding
 - [ ] 7.4 ReplaceAndRemove
