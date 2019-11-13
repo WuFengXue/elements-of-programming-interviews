@@ -4,7 +4,7 @@
 - [x] 7.2 BaseConversion
 - [x] 7.3 SpreadsheetColumnEncoding
 - [x] 7.4 ReplaceAndRemove
-- [ ] 7.5 PalindromeAlphanumeric
+- [x] 7.5 PalindromeAlphanumeric
 - [ ] 7.6 ReverseWordsInASentence
 - [ ] 7.7 ComputeMnemonicsPhoneNumber
 - [ ] 7.8 LookAndSayProblem
