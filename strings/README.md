@@ -9,7 +9,7 @@
 - [x] 7.7 ComputeMnemonicsPhoneNumber
 - [x] 7.8 LookAndSayProblem
 - [x] 7.9 RomanToDecimal
-- [ ] 7.10 ComputeValidIPAddresses
+- [x] 7.10 ComputeValidIPAddresses
 - [ ] 7.11 StringSinusoidal
 - [ ] 7.12 RunLengthEncoding
 - [ ] 7.13 FindFirstOccurrenceOfSubstring
