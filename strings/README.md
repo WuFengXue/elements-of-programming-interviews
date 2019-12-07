@@ -12,4 +12,4 @@
 - [x] 7.10 ComputeValidIPAddresses
 - [x] 7.11 StringSinusoidal
 - [x] 7.12 RunLengthEncoding
-- [ ] 7.13 FindFirstOccurrenceOfSubstring
+- [x] 7.13 FindFirstOccurrenceOfSubstring
