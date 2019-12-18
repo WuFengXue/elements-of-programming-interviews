@@ -4,7 +4,7 @@
 - [x] 8.2 ReverseSingleSublist
 - [x] 8.3 TestCyclicity
 - [x] 8.4 TestForOverlappingLists
-- [ ] 8.5 FindOverlappingWithCycles
+- [x] 8.5 FindOverlappingWithCycles
 - [ ] 8.6 DeleteNode
 - [ ] 8.7 DeleteKthLastNode
 - [ ] 8.8 RemoveDuplicatesFromSortedList
