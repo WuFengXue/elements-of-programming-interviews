@@ -5,7 +5,7 @@
 - [x] 8.3 TestCyclicity
 - [x] 8.4 TestForOverlappingLists
 - [x] 8.5 FindOverlappingWithCycles
-- [ ] 8.6 DeleteNode
+- [x] 8.6 DeleteNode
 - [ ] 8.7 DeleteKthLastNode
 - [ ] 8.8 RemoveDuplicatesFromSortedList
 - [ ] 8.9 CyclicRightShift
