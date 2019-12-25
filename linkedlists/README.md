@@ -8,7 +8,7 @@
 - [x] 8.6 DeleteNode
 - [x] 8.7 DeleteKthLastNode
 - [x] 8.8 RemoveDuplicatesFromSortedList
-- [ ] 8.9 CyclicRightShift
+- [x] 8.9 CyclicRightShift
 - [ ] 8.10 EvenOddMerge
 - [ ] 8.11 Palindromic
 - [ ] 8.12 ListPivot
