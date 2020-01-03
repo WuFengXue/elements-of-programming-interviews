@@ -11,5 +11,5 @@
 - [x] 8.9 CyclicRightShift
 - [x] 8.10 EvenOddMerge
 - [x] 8.11 Palindromic
-- [ ] 8.12 ListPivot
+- [x] 8.12 ListPivot
 - [ ] 8.13 AddIntegers
