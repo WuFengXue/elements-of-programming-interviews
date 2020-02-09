@@ -9,4 +9,4 @@
 - [x] 9.7 ComputeBinaryTreeNodes
 - [x] 9.8 CircularQueue
 - [x] 9.9 QueueWithStacks
-- [ ] 9.10 QueueWithMax
+- [x] 9.10 QueueWithMax
