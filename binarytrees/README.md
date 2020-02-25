@@ -8,7 +8,7 @@
 - [x] 10.6 FindRootToLeafSum
 - [x] 10.7 InorderIterative
 - [x] 10.8 PreorderIterative
-- [ ] 10.9 ComputeKthNodeInorder
+- [x] 10.9 ComputeKthNodeInorder
 - [ ] 10.10 ComputeSuccessor
 - [ ] 10.11 ImplementInorderSpaceEfficient
 - [ ] 10.12 ReconstructBinaryTree
