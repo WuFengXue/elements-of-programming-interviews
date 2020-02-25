@@ -9,7 +9,7 @@
 - [x] 10.7 InorderIterative
 - [x] 10.8 PreorderIterative
 - [x] 10.9 ComputeKthNodeInorder
-- [ ] 10.10 ComputeSuccessor
+- [x] 10.10 ComputeSuccessor
 - [ ] 10.11 ImplementInorderSpaceEfficient
 - [ ] 10.12 ReconstructBinaryTree
 - [ ] 10.13 ReconstructBinaryTreeWithMarkers
