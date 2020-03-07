@@ -11,7 +11,7 @@
 - [x] 10.9 ComputeKthNodeInorder
 - [x] 10.10 ComputeSuccessor
 - [x] 10.11 ImplementInorderSpaceEfficient
-- [ ] 10.12 ReconstructBinaryTree
+- [x] 10.12 ReconstructBinaryTree
 - [ ] 10.13 ReconstructBinaryTreeWithMarkers
 - [ ] 10.14 TreeToLinkedList
 - [ ] 10.15 ComputeExterior
