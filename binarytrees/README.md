@@ -12,7 +12,7 @@
 - [x] 10.10 ComputeSuccessor
 - [x] 10.11 ImplementInorderSpaceEfficient
 - [x] 10.12 ReconstructBinaryTree
-- [ ] 10.13 ReconstructBinaryTreeWithMarkers
+- [x] 10.13 ReconstructBinaryTreeWithMarkers
 - [ ] 10.14 TreeToLinkedList
 - [ ] 10.15 ComputeExterior
 - [ ] 10.16 ComputeRightSiblingTree
