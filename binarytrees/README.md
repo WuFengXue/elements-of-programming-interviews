@@ -13,7 +13,7 @@
 - [x] 10.11 ImplementInorderSpaceEfficient
 - [x] 10.12 ReconstructBinaryTree
 - [x] 10.13 ReconstructBinaryTreeWithMarkers
-- [ ] 10.14 TreeToLinkedList
+- [x] 10.14 TreeToLinkedList
 - [ ] 10.15 ComputeExterior
 - [ ] 10.16 ComputeRightSiblingTree
 - [ ] 10.17 LockingBinaryTree
