@@ -15,5 +15,5 @@
 - [x] 10.13 ReconstructBinaryTreeWithMarkers
 - [x] 10.14 TreeToLinkedList
 - [x] 10.15 ComputeExterior
-- [ ] 10.16 ComputeRightSiblingTree
+- [x] 10.16 ComputeRightSiblingTree
 - [ ] 10.17 LockingBinaryTree
