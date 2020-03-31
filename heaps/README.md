@@ -1,7 +1,7 @@
 # Chapter 11: Heaps
 
 - [x] 11.1 MergeSortedFiles
-- [ ] 11.2 SortIncDec
+- [x] 11.2 SortIncDec
 - [ ] 11.3 SortAlmostSorted
 - [ ] 11.4 ComputeKClosest
 - [ ] 11.5 ComputeMedianOnline
