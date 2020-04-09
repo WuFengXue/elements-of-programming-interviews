@@ -1,7 +1,7 @@
 # Chapter 12: Searching
 
 - [x] 12.1 SearchSorted
-- [ ] 12.2 SearchSortedIndex
+- [x] 12.2 SearchSortedIndex
 - [ ] 12.3 SearchSortedCyclic
 - [ ] 12.4 IntegerSquareRoot
 - [ ] 12.5 RealSquareRoot
