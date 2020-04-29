@@ -9,4 +9,4 @@
 - [x] 12.7 FindMinAndMax
 - [x] 12.8 FindKthLargest
 - [x] 12.9 FindMissingIP
-- [ ] 12.10 FindDuplicateAndMissing
+- [x] 12.10 FindDuplicateAndMissing
