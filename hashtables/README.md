@@ -1,6 +1,6 @@
 # Chapter 13: Hash Tables
 
-- [ ] 13.1 PalindromicPermutations
+- [x] 13.1 PalindromicPermutations
 - [ ] 13.2 IsLetterConstructable
 - [ ] 13.3 LRUCache
 - [ ] 13.4 ComputeLCA
