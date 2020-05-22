@@ -5,7 +5,7 @@
 - [x] 13.3 LRUCache
 - [x] 13.4 ComputeLCA
 - [ ] 13.5 ComputeKMostFrequent
-- [ ] 13.6 NearestRepeated
+- [x] 13.6 NearestRepeated
 - [ ] 13.7 SmallestSubarray
 - [ ] 13.8 SmallestSequentialSubarray
 - [ ] 13.9 LongestSubarray
