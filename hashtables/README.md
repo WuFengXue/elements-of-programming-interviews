@@ -6,7 +6,7 @@
 - [x] 13.4 ComputeLCA
 - [ ] 13.5 ComputeKMostFrequent
 - [x] 13.6 NearestRepeated
-- [ ] 13.7 SmallestSubarray
+- [x] 13.7 SmallestSubarray
 - [ ] 13.8 SmallestSequentialSubarray
 - [ ] 13.9 LongestSubarray
 - [ ] 13.10 LongestContainedInterval
