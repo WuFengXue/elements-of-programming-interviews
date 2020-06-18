@@ -9,7 +9,7 @@
 - [x] 13.7 SmallestSubarray
 - [x] 13.8 SmallestSequentialSubarray
 - [x] 13.9 LongestSubarray
-- [ ] 13.10 LongestContainedInterval
+- [x] 13.10 LongestContainedInterval
 - [ ] 13.11 ComputeAverageTopThree
 - [ ] 13.12 ComputeStringDecompositions
 - [ ] 13.13 CollatzConjecture
