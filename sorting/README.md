@@ -1,6 +1,6 @@
 # Chapter 14: Sorting
 
-- [ ] 14.1 ComputeIntersection
+- [x] 14.1 ComputeIntersection
 - [ ] 14.2 MergeSorted
 - [ ] 14.3 RemoveFirstNameDuplicates
 - [ ] 14.4 RenderCalendar
