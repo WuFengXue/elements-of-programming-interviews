@@ -3,7 +3,7 @@
 - [x] 14.1 ComputeIntersection
 - [x] 14.2 MergeSorted
 - [x] 14.3 RemoveFirstNameDuplicates
-- [ ] 14.4 RenderCalendar
+- [x] 14.4 RenderCalendar
 - [ ] 14.5 MergeIntervals
 - [ ] 14.6 ComputeUnion
 - [ ] 14.7 PartitionSortRepeats
