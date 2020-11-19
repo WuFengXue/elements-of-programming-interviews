@@ -5,7 +5,7 @@
 - [x] 14.3 RemoveFirstNameDuplicates
 - [x] 14.4 RenderCalendar
 - [x] 14.5 MergeIntervals
-- [ ] 14.6 ComputeUnion
+- [x] 14.6 ComputeUnion
 - [ ] 14.7 PartitionSortRepeats
 - [ ] 14.8 TeamPhotoDay
 - [ ] 14.9 ImplementFastSorting
