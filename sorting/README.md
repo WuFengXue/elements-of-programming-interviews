@@ -7,6 +7,6 @@
 - [x] 14.5 MergeIntervals
 - [x] 14.6 ComputeUnion
 - [x] 14.7 PartitionSortRepeats
-- [ ] 14.8 TeamPhotoDay
+- [x] 14.8 TeamPhotoDay
 - [ ] 14.9 ImplementFastSorting
 - [ ] 14.10 ComputeSalaryThreshold
