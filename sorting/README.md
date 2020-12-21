@@ -9,4 +9,4 @@
 - [x] 14.7 PartitionSortRepeats
 - [x] 14.8 TeamPhotoDay
 - [x] 14.9 ImplementFastSorting
-- [ ] 14.10 ComputeSalaryThreshold
+- [x] 14.10 ComputeSalaryThreshold
