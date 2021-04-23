@@ -3,7 +3,7 @@
 - [x] 15.1 IsBST
 - [x] 15.2 FirstGreaterThan
 - [x] 15.3 FindKLargest
-- [ ] 15.4 ComputeLCA
+- [x] 15.4 ComputeLCA
 - [ ] 15.5 ReconstructBST
 - [ ] 15.6 ClosestEntries
 - [ ] 15.7 EnumerateEntries
