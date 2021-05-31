@@ -4,7 +4,7 @@
 - [x] 15.2 FirstGreaterThan
 - [x] 15.3 FindKLargest
 - [x] 15.4 ComputeLCA
-- [ ] 15.5 ReconstructBST
+- [x] 15.5 ReconstructBST
 - [ ] 15.6 ClosestEntries
 - [ ] 15.7 EnumerateEntries
 - [ ] 15.8 MostVisitedPages
