@@ -5,7 +5,7 @@
 - [x] 15.3 FindKLargest
 - [x] 15.4 ComputeLCA
 - [x] 15.5 ReconstructBST
-- [ ] 15.6 ClosestEntries
+- [x] 15.6 ClosestEntries
 - [ ] 15.7 EnumerateEntries
 - [ ] 15.8 MostVisitedPages
 - [ ] 15.9 MinimumHeightBST
@@ -13,3 +13,4 @@
 - [ ] 15.11 AreNodesOrdered
 - [ ] 15.12 RangeLookup
 - [ ] 15.13 ClientCreditsInfo
+
